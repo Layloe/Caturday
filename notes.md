@@ -1,7 +1,8 @@
 
 hover select navbar
 transparent
-add footer
+add footer/ link icons
+fix location of footer on pages other than home
 style home
 host images
 
