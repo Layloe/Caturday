@@ -1,4 +1,16 @@
+html {
+  height: 100%;
+}
+
 body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
     background: linear-gradient(to bottom, #c4fdd5 0%, #f7d4d4 100%);
     background-attachment: fixed;
+  }
+
+  footer {
+    padding: 0em;
+    margin-top: auto;
   }
